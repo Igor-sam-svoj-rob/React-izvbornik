@@ -11,13 +11,13 @@ export const Sidebar = [
   },
   {
     title: "Izvještaji",
-    path: "/reports",
+    path: "/izvestaji",
     icon: <IoIcons.IoIosPaper />,
     cName: "nav-text",
   },
   {
     title: "Proizvodi",
-    path: "/products",
+    path: "/proizvodi",
     icon: <FaIcons.FaCartPlus />,
     cName: "nav-text",
   },
@@ -35,7 +35,7 @@ export const Sidebar = [
   },
   {
     title: "Podrška",
-    path: "/support",
+    path: "/podrska",
     icon: <IoIcons.IoIosHelpCircle />,
     cName: "nav-text",
   },
